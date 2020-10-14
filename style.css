@@ -1,0 +1,27 @@
+html{background-color: beige;
+
+}
+
+body{
+}
+
+
+header {
+  width: 100%;
+  padding: 10px 0.5% 0px 0.5px;
+  background: transparent;
+  float: left;
+  position: fixed;
+}
+.flex-container {
+  display: flex;
+  background-color: black;
+  text-align: center;
+}
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 25px;
+  padding: 35px;
+  font-size: 45px;
+  
+}
